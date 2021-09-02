@@ -1,5 +1,5 @@
 I’m @maxaham
-I study applied mathematics; I am focusing on artificial intelligence and control theory.
+I study computer science and math; I am focusing on artificial intelligence and control theory.
 
 <!---
 maxaham/maxaham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
