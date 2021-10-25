@@ -1,4 +1,4 @@
-I’m @maxaham
+## I’m @maxaham
 I study computer science and math; I am focusing on artificial intelligence and control theory.
 
 <!---
